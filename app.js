@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];
@@ -73,3 +74,5 @@ function reiniciarJuego() {
 }
 
 condicionesIniciales();
+=======
+>>>>>>> parent of 6f9d10b (Ajuste del Valor Máximo)
